@@ -1,1 +1,2 @@
 C:\Projects\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.CoreCompileInputs.cache
+C:\Projects\WorldCities\World-Cities\WorldCities\obj\Debug\WorldCities.esproj.CoreCompileInputs.cache
